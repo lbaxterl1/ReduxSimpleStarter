@@ -1,8 +1,8 @@
 export default function() {
     return [
-        {title: 'javascript'},
-        {title: 'Ruby'},
-        {title: 'PHP'},
-        {title: 'c#'}
+        {title: 'javascript', pages: 101},
+        {title: 'Ruby', pages: 230},
+        {title: 'PHP', pages: 999},
+        {title: 'c#', pages:800}
     ]
 }
